@@ -1,0 +1,28 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  sanity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify key files exist
+        run: |
+          test -f README.md
+          test -f references/crypto-strong-coin-framework-v1.7.md
+          test -f references/system-limits-and-biases-v1.md
+          test -f references/paper-portfolio-validation-protocol-v1.md
+          test -f references/crypto-research-system-summary-v1.md
+          test -f data/cmc_historical_2019-03-12_top1000_filtered.csv
+          test -f data/cmc_historical_2026-03-12_top1000_filtered.csv
+      - name: Count published snapshot files
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          files=sorted(Path('data').glob('cmc_historical_*_top1000_filtered.csv'))
+          print('snapshot_files', len(files))
+          assert len(files) == 8, f'expected 8 snapshots, got {len(files)}'
+          PY

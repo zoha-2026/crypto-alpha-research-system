@@ -1,0 +1,42 @@
+symbol,name,step1_pathway,category,historical_observation_status,rank_2019,rank_2022,rank_delta_19_22,priority_rule,notes
+MANA,Decentraland,路径A：有历史排名爬升,中位爬升,历史 top500 内,82,25,57,hist 51-150 / priority delta>=35,
+QNT,Quant,路径A：有历史排名爬升,中位爬升,历史 top500 内,110,57,53,hist 51-150 / priority delta>=35,
+IOTX,IoTeX,路径A：有历史排名爬升,中位爬升,历史 top500 内,138,87,51,hist 51-150 / priority delta>=35,
+LEO,UNUS SED LEO,路径A：有历史排名爬升,低位爬升,历史 top500 内,264,21,243,hist 151-500 / priority delta>=70,
+FTM,Fantom,路径A：有历史排名爬升,低位爬升,历史 top500 内,265,32,233,hist 151-500 / priority delta>=70,
+GNO,Gnosis,路径A：有历史排名爬升,低位爬升,历史 top500 内,194,98,96,hist 151-500 / priority delta>=70,
+SNX,Synthetix,路径A：有历史排名爬升,低位爬升,历史 top500 内,472,111,361,hist 151-500 / priority delta>=70,
+CHSB,SwissBorg,路径A：有历史排名爬升,低位爬升,历史 top500 内,399,123,276,hist 151-500 / priority delta>=70,
+REN,Ren,路径A：有历史排名爬升,低位爬升,历史 top500 内,220,133,87,hist 151-500 / priority delta>=70,
+MXC,MXC,路径A：有历史排名爬升,低位爬升,历史 top500 内,398,162,236,hist 151-500 / priority delta>=70,
+MED,MediBloc,路径A：有历史排名爬升,低位爬升,历史 top500 内,351,177,174,hist 151-500 / priority delta>=70,
+XWC,WhiteCoin,路径A：有历史排名爬升,低位爬升,历史 top500 内,315,209,106,hist 151-500 / priority delta>=70,
+HUM,Humanscape,路径A：有历史排名爬升,低位爬升,历史 top500 内,299,227,72,hist 151-500 / priority delta>=70,
+TRAC,OriginTrail,路径A：有历史排名爬升,低位爬升,历史 top500 内,330,259,71,hist 151-500 / priority delta>=70,
+DERO,Dero,路径A：有历史排名爬升,低位爬升,历史 top500 内,352,272,80,hist 151-500 / priority delta>=70,
+UBT,Unibright,路径A：有历史排名爬升,低位爬升,历史 top500 内,474,297,177,hist 151-500 / priority delta>=70,
+LUNA,Terra,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,5,,outside historical top500 -> current top50,2019 不在历史观察池
+SOL,Solana,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,7,,outside historical top500 -> current top50,2019 不在历史观察池
+AVAX,Avalanche,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,8,,outside historical top500 -> current top50,2019 不在历史观察池
+DOT,Polkadot,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,9,,outside historical top500 -> current top50,2019 不在历史观察池
+SHIB,Shiba Inu,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,11,,outside historical top500 -> current top50,2019 不在历史观察池
+MATIC,Polygon,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,12,,outside historical top500 -> current top50,2019 不在历史观察池
+ATOM,Cosmos,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,14,,outside historical top500 -> current top50,2019 不在历史观察池
+NEAR,NEAR Protocol,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,16,,outside historical top500 -> current top50,2019 不在历史观察池
+UNI,Uniswap,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,19,,outside historical top500 -> current top50,2019 不在历史观察池
+FTT,FTX Token,路径B：新上位,强新上位,2019 top500 外,600,20,,outside historical top500 -> current top50,2019 rank=600 但对应的是 FarmaTrust（符号重名而非同一资产）；按资产身份应视为历史观察池外的新上位
+ALGO,Algorand,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,23,,outside historical top500 -> current top50,2019 不在历史观察池
+HBAR,Hedera,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,26,,outside historical top500 -> current top50,2019 不在历史观察池
+ICP,Internet Computer,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,28,,outside historical top500 -> current top50,2019 不在历史观察池
+SAND,The Sandbox,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,30,,outside historical top500 -> current top50,2019 不在历史观察池
+FIL,Filecoin,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,31,,outside historical top500 -> current top50,2019 不在历史观察池
+EGLD,Elrond,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,33,,outside historical top500 -> current top50,2019 不在历史观察池
+KLAY,Klaytn,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,35,,outside historical top500 -> current top50,2019 不在历史观察池
+AXS,Axie Infinity,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,37,,outside historical top500 -> current top50,2019 不在历史观察池
+HNT,Helium,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,40,,outside historical top500 -> current top50,2019 不在历史观察池
+RUNE,THORChain,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,41,,outside historical top500 -> current top50,2019 不在历史观察池
+FLOW,Flow,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,43,,outside historical top500 -> current top50,2019 不在历史观察池
+STX,Stacks,路径B：新上位,强新上位,2019 top500 外,815,46,,outside historical top500 -> current top50,2019 rank=815，但在历史观察池外
+BTT,BitTorrent (New),路径B：新上位,强新上位,2019 top500 外,711,48,,outside historical top500 -> current top50,2019 rank=711，但在历史观察池外
+CAKE,PancakeSwap,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,49,,outside historical top500 -> current top50,2019 不在历史观察池
+AAVE,Aave,路径B：新上位,强新上位,2019 top1000 外 / 不存在,,50,,outside historical top500 -> current top50,2019 不在历史观察池

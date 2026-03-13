@@ -1,0 +1,33 @@
+symbol,group,sector,rank_2023,rank_2024,rank_2025,rank_2026,market_cap_2026_usd,fact_total_2024,rule_total_2024,capital_overlay_2024,warnings_2024,final_total_2024,final_rating_2024,rank_delta_24_26,actual_result_24_26,predicted_positive,actual_positive,confusion_class,note
+PENDLE,historical_climber,DeFi yield infra,345,124,123,120,213675214.53498346,5,9,0,,9,高优先级,4,➡️横盘,1,0,FP,2024 已属产品驱动 DeFi 模板，事实层较强
+BGB,historical_climber,exchange token,196,87,22,39,1514908126.439596,5,8,0,,8,高优先级,48,✅涨了,1,1,TP,平台扩张型，二阶筛选后仍偏正面
+XAUT,historical_climber,gold-backed asset,197,154,72,25,2871386620.795844,4,7,0,,7,观察级,129,✅涨了,1,1,TP,宏观锚定资产，供给结构干净
+PAXG,historical_climber,gold-backed asset,72,188,84,29,2557847822.578312,3,6,0,,6,观察级,159,✅涨了,1,1,TP,2024 路径弱，但宏观锚定逻辑仍在
+KAS,historical_climber,PoW differentiated asset,207,39,40,50,841041649.8627304,5,6,0,,6,观察级,-11,❌跌了,1,0,FP,2024 时已强势，但赛道外延有限
+ZEC,historical_climber,PoW/privacy asset,68,148,96,21,3532690458.0598507,3,5,0,,5,观察级,127,✅涨了,1,1,TP,非主线，但供给与身份清楚
+DCR,historical_climber,PoW/DAO asset,109,169,176,72,470716371.730324,2,2,0,,2,暂不成立,97,✅涨了,0,1,FN,更像事件反弹，不像结构性机会
+DEXE,historical_climber,DeFi infra / asset mgmt,229,194,49,84,354466710.8912287,4,5,0,,5,观察级,110,✅涨了,1,1,TP,产品化存在，阶段位置中等
+JST,historical_climber,Tron ecosystem DeFi,136,190,135,70,473362480.8255374,3,4,0,,4,观察级,120,✅涨了,1,1,TP,生态内受益，但模板不够硬
+NFT,historical_climber,NFT ecosystem token,184,141,103,90,331704827.97358483,3,1,0,narrative,1,暂不成立,51,✅涨了,0,1,FN,更偏叙事/生态残留，不给高分
+STRK,historical_climber,L2 / ZK expansion,380,518,516,116,230365460.94186392,2,-2,-4,supply_red,-6,暂不成立,402,✅涨了,0,1,FN,重融资低流通、产品兑现弱；rank_delta +402 更像均值回归而非真正上行；如按实质判断重归类为 TN，可见市场命中率升至 72.7%
+RAY,historical_climber,Solana DEX infra,376,224,98,139,167780535.4054413,4,5,0,,5,观察级,85,✅涨了,1,1,TP,基础设施模板成立
+CORE,historical_climber,BTC-linked L1,324,142,109,228,87682249.55232513,4,2,0,,2,暂不成立,-86,❌跌了,0,0,TN,起过势但缺第二段跃迁
+SUPER,historical_climber,gaming / metaverse infra,384,130,158,260,74831723.29532404,3,1,0,,1,暂不成立,-130,❌跌了,0,0,TN,题材多于兑现
+PHB,historical_climber,AI/infra old alt,415,377,599,882,9821565.236935845,2,0,0,,0,暂不成立,-505,❌跌了,0,0,TN,使用和赛道地位都弱
+NKN,historical_climber,network infra,291,399,570,,,1,0,0,,0,暂不成立,,❌跌了,0,0,TN,长期弱势
+COTI,historical_climber,payments infra,262,219,272,469,33994496.18443492,3,2,0,,2,暂不成立,-250,❌跌了,0,0,TN,有叙事但兑现一般
+HYPE,strong_new_upstart,perp / exchange infra,,,23,10,9725245283.30955,0,0,0,offscreen,0,暂不成立,,✅涨了,0,1,FN,2024-03 尚未进入可评分视野
+SUI,strong_new_upstart,new L1 ecosystem,,59,16,20,3952544404.7090697,4,6,-1,,5,观察级,39,✅涨了,1,1,TP,新链三重匹配部分成立，但重融资略减分
+TAO,strong_new_upstart,decentralized intelligence,,30,36,31,2380495492.7288327,4,8,2,,10,高优先级,-1,➡️横盘,1,0,FP,赛道强、二级承接强，但位置已不低
+ONDO,strong_new_upstart,RWA / yield infra,,113,29,43,1290956273.6930685,4,9,1,,10,高优先级,70,✅涨了,1,1,TP,RWA 龙头结构较清晰
+PEPE,strong_new_upstart,meme,,38,28,41,1421693920.6480205,4,0,0,narrative,0,暂不成立,-3,➡️横盘,0,0,TN,纯叙事成分高，不给正分
+WLD,strong_new_upstart,identity / AI,,72,63,45,1065361149.4394227,4,2,-2,supply_red,0,暂不成立,27,✅涨了,0,1,FN,资本和供给污染显著
+ENA,strong_new_upstart,synthetic dollar infra,,,55,47,923973918.928924,0,1,0,offscreen,1,暂不成立,,✅涨了,0,1,FN,2024-03 尚未进入可评分视野
+PI,strong_new_upstart,consumer/mining narrative,,,9,27,2827999869.579275,0,0,0,offscreen,0,暂不成立,,✅涨了,0,1,FN,2024-03 尚未进入可评分视野
+WBT,strong_new_upstart,exchange token,,,,,,0,0,0,offscreen,0,暂不成立,,❌跌了,0,0,TN,2024-03 尚未进入可评分视野
+CC,strong_new_upstart,new infrastructure,,,,15,5612993501.334395,0,0,0,offscreen,0,暂不成立,,✅涨了,0,1,FN,2024-03 尚未进入可评分视野
+RAIN,strong_new_upstart,payments,,,,189,4360024378.115199,0,0,0,offscreen,0,暂不成立,,✅涨了,0,1,FN,2024-03 尚未进入可评分视野
+WLFI,strong_new_upstart,brand / political token,,,,26,2828594001.5995145,0,0,0,offscreen,0,暂不成立,,✅涨了,0,1,FN,2024-03 尚未进入可评分视野
+BUIDL,strong_new_upstart,RWA fund token,,,,,,0,0,0,offscreen,0,暂不成立,,❌跌了,0,0,TN,2024-03 尚未进入可评分视野
+M,strong_new_upstart,new token,,,,35,1874931566.8476613,0,0,0,offscreen,0,暂不成立,,✅涨了,0,1,FN,2024-03 尚未进入可评分视野
+ASTER,strong_new_upstart,new token,,,,37,1758998805.1632807,0,0,0,offscreen,0,暂不成立,,✅涨了,0,1,FN,2024-03 尚未进入可评分视野

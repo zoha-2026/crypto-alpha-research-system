@@ -1,0 +1,39 @@
+symbol,group,sector,rank_2019,rank_2020,rank_2021,rank_2022,rank_2024,market_cap_2022_usd,fact_total_2022,rule_total_2022,capital_overlay_2022,warnings_2022,final_total_2022,final_rating_2022,rank_delta_22_24,actual_result_22_24,predicted_positive,actual_positive,confusion_class,note
+LEO,historical_climber,exchange token,264,9,45,21,21,5547315603.561721,4,5,0,,5,观察级,0,➡️横盘,1,0,FP,平台币现金流逻辑成立，但 2022 时已在高位
+MANA,historical_climber,metaverse / gaming narrative,82,147,69,25,74,4261677463.1347885,4,-2,0,narrative_timer,-2,暂不成立,-49,❌跌了,0,0,TN,元宇宙热度已过峰，兑现开始转弱
+FTM,historical_climber,L1 / DeFi ecosystem,265,326,70,32,51,3029014732.2372756,4,6,0,,6,观察级,-19,❌跌了,1,0,FP,链上活跃度与 DeFi 模板都强，但 2022 时位置已不低
+QNT,historical_climber,interoperability / enterprise narrative,110,150,101,57,68,1401899477.7529008,3,2,0,,2,暂不成立,-11,❌跌了,0,0,TN,题材清楚，但兑现不够广
+IOTX,historical_climber,IoT / infra,138,203,115,87,114,640452848.7343364,3,1,0,,1,暂不成立,-27,❌跌了,0,0,TN,叙事有辨识度，但并非主线核心
+GNO,historical_climber,DeFi infra / treasury,194,217,140,98,95,547964660.9609755,3,4,0,,4,观察级,3,➡️横盘,1,0,FP,产品与资产属性都在，但上行空间未必大
+SNX,historical_climber,DeFi / synthetics,472,60,37,111,71,481957987.5244127,3,4,0,,4,观察级,40,✅涨了,1,1,TP,老 DeFi 里仍有产品与机制支撑
+CHSB,historical_climber,fintech app token,399,240,55,123,,426597729.927606,2,1,0,,1,暂不成立,,❌跌了,0,0,TN,更像平台/社区币，不像结构性主线
+REN,historical_climber,bridge infra,220,99,62,133,450,349625353.4083419,3,0,0,,0,暂不成立,-317,❌跌了,0,0,TN,桥赛道身份明确，但产品壁垒有限
+MXC,historical_climber,IoT / mining narrative,398,303,387,162,575,243403495.0238985,2,0,0,,0,暂不成立,-413,❌跌了,0,0,TN,更偏旧叙事残留
+MED,historical_climber,health data token,351,357,285,177,365,209191229.82179913,2,0,0,,0,暂不成立,-188,❌跌了,0,0,TN,赛道小众，产品扩张证据弱
+XWC,historical_climber,legacy chain asset,315,102,194,209,676,392672327.6968332,1,0,0,,0,暂不成立,-467,❌跌了,0,0,TN,老资产反弹感更强
+HUM,historical_climber,health data token,299,419,499,227,,183430128.21816117,2,0,0,,0,暂不成立,,❌跌了,0,0,TN,主题存在，但市场承接弱
+TRAC,historical_climber,supply-chain / knowledge infra,330,579,122,259,460,149372861.6990718,3,2,0,,2,暂不成立,-201,❌跌了,0,0,TN,产品方向有价值，但缺主线共振
+DERO,historical_climber,privacy L1,352,435,601,272,540,132340744.07690285,2,1,0,,1,暂不成立,-268,❌跌了,0,0,TN,小众强观点资产，非主流主线
+UBT,historical_climber,enterprise integration,474,190,162,297,852,119837897.45116843,2,0,0,,0,暂不成立,-555,❌跌了,0,0,TN,更像事件性反弹
+LUNA,strong_new_upstart,algorithmic stable / L1,,78,,5,120,32203317176.02357,5,5,-2,stable_reflexive,3,暂不成立,-115,❌跌了,0,0,TN,生态强，但对算法稳定币反身性依赖过深
+SOL,strong_new_upstart,new L1 ecosystem,,,20,7,4,26068188197.615112,5,6,0,,6,观察级,3,➡️横盘,1,0,FP,新链三重匹配成立，2022 时已属强者
+AVAX,strong_new_upstart,new L1 ecosystem,,,24,8,8,18905998303.17521,5,5,0,,5,观察级,0,➡️横盘,1,0,FP,子网与生态扩张逻辑存在
+DOT,strong_new_upstart,multi-chain ecosystem,,,5,9,11,17928438684.198593,4,4,0,,4,观察级,-2,➡️横盘,1,0,FP,跨链叙事强，但兑现速度一般
+SHIB,strong_new_upstart,meme,,,,11,9,12168155988.86227,4,-4,0,narrative,-4,暂不成立,2,➡️横盘,0,0,TN,纯叙事成分高
+MATIC,strong_new_upstart,scaling infrastructure,,122,41,12,13,10726648473.149075,5,6,0,,6,观察级,-1,➡️横盘,1,0,FP,扩容主线与生态承接都强
+ATOM,strong_new_upstart,interchain infra,,25,19,14,23,7794718347.493666,4,4,0,,4,观察级,-9,➡️横盘,1,0,FP,跨链基础设施模板成立
+NEAR,strong_new_upstart,new L1 ecosystem,,,38,16,16,6680774237.694572,4,5,0,,5,观察级,0,➡️横盘,1,0,FP,新链与开发者叙事兼具
+UNI,strong_new_upstart,DEX infra,,,7,19,17,5829945153.385363,4,5,0,,5,观察级,2,➡️横盘,1,0,FP,DeFi 基础设施龙头属性清晰
+ALGO,strong_new_upstart,L1 / payments,,50,31,23,47,4678946293.703316,4,1,0,,1,暂不成立,-24,❌跌了,0,0,TN,品牌和技术在，但用户承接一般
+HBAR,strong_new_upstart,enterprise L1,,52,43,26,27,4032812089.6067967,4,2,0,,2,暂不成立,-1,➡️横盘,0,0,TN,机构叙事强，但市场弹性有限
+ICP,strong_new_upstart,new internet / L1,,,,28,19,3416152346.1942625,2,-2,-2,supply_red,-4,暂不成立,9,➡️横盘,0,0,TN,重融资高预期，供给与兑现都差
+SAND,strong_new_upstart,metaverse / gaming narrative,,,203,30,66,3132477820.0087466,4,-3,0,narrative_timer,-3,暂不成立,-36,❌跌了,0,0,TN,元宇宙热度后段
+FIL,strong_new_upstart,storage infra,,,33,31,20,3119612319.037944,4,4,0,,4,观察级,11,✅涨了,1,1,TP,基础设施模板仍成立
+EGLD,strong_new_upstart,L1,,,35,33,60,3019566002.563951,4,2,0,,2,暂不成立,-27,❌跌了,0,0,TN,有生态但主线地位不强
+KLAY,strong_new_upstart,platform L1,,,,35,101,2921490437.6909146,3,1,0,,1,暂不成立,-66,❌跌了,0,0,TN,区域平台链，延展性一般
+AXS,strong_new_upstart,gaming / narrative,,,226,37,65,2842159953.412884,4,-4,0,narrative,-4,暂不成立,-28,❌跌了,0,0,TN,游戏热潮后段，纯题材成分高
+HNT,strong_new_upstart,wireless / hardware network,,,100,40,83,2402645622.8199,3,1,0,,1,暂不成立,-43,❌跌了,0,0,TN,有设备网络故事，但扩张斜率有限
+RUNE,strong_new_upstart,cross-chain DEX,,221,52,41,36,2150508744.74213,4,4,0,,4,观察级,5,➡️横盘,1,0,FP,产品逻辑成立，但波动极大
+FLOW,strong_new_upstart,consumer / NFT chain,,,64,43,50,1967914196.2506886,3,1,0,,1,暂不成立,-7,➡️横盘,0,0,TN,品牌强于持续使用
+CAKE,strong_new_upstart,DEX / emission-heavy platform,,,51,49,103,1644772464.6830764,3,0,0,,0,暂不成立,-54,❌跌了,0,0,TN,平台有流量，但通胀与竞争压力大
+AAVE,strong_new_upstart,DeFi lending infra,,,14,50,58,1640826357.3034012,4,4,0,,4,观察级,-8,➡️横盘,1,0,FP,龙头借贷协议，但 2022 时已在成熟高位
